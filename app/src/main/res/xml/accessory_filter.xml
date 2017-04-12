@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<usb-accessory />-->
+    <usb-accessory
+        manufacturer="Google, Inc."
+        model="AccessoryChat"
+        type="Sample Program"
+        version="1.0"/>
+</resources>
